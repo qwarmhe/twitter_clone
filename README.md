@@ -1,2 +1,2 @@
-# twitter_clone
-twitter_clone(Tenkorang Daniel 10659057)
+# twitter_clone mobile app
+
